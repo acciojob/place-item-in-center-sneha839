@@ -1,5 +1,3 @@
-
-/* Your CSS Code here. */
 /* Set holder as a flex container */
 .holder {
   display: flex;
@@ -14,4 +12,8 @@
   width: 100px;
   height: 100px;
   background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
